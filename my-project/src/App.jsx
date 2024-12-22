@@ -45,6 +45,7 @@ function App() {
         // <StopWatch/>
         // <UseeffectPrac/>
         <SchedulePage/>
+        console.log('first', first)
   );
 }
 
