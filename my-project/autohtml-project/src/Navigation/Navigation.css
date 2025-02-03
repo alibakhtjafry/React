@@ -1,0 +1,103 @@
+.navigation,
+.navigation * {
+  box-sizing: border-box;
+}
+.navigation {
+  height: 112px;
+  position: relative;
+  overflow: hidden;
+}
+.navigation .world-peas {
+  color: #426b1f;
+  text-align: left;
+  font-family: "Newsreader-Medium", sans-serif;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: absolute;
+  left: 96px;
+  top: 41px;
+}
+.navigation .shop {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 657px;
+  top: 45.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation .newstand {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 532px;
+  top: 45.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation .who-we-are {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 394px;
+  top: 45.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation .my-profile {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 400;
+  position: absolute;
+  right: 270px;
+  top: 45.5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation .cart-button {
+  background: #426b1f;
+  border-radius: 8px;
+  padding: 14px 23px 14px 23px;
+  width: 126px;
+  height: 48px;
+  position: absolute;
+  right: 96px;
+  top: 32px;
+  overflow: hidden;
+}
+.navigation .basket-3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 130%;
+  font-weight: 600;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
